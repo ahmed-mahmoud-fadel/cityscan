@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>http://3.29.1.25/website/info</loc>
+    </url><url>
+        <loc>http://3.29.1.25/</loc>
+    </url><url>
+        <loc>http://3.29.1.25/blood-pressure-monitor</loc>
+        <lastmod>2022-12-14</lastmod>
+    </url><url>
+        <loc>http://3.29.1.25/holter</loc>
+        <lastmod>2022-12-14</lastmod>
+    </url>
+</urlset>
